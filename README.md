@@ -13,11 +13,23 @@
 
 ### Selected work
 
-| | Project | What it is | Built with |
-|---|---|---|---|
-| 01 | [**Portfolio**](https://windowopner.github.io) | Five projects kept as an archive of discs: real-time 3D, a mirror floor, and a loop per disc synthesised in the browser. No build step. | Three.js, GLSL, Web Audio |
-| 02 | **Undertone** | A macOS desktop background that moves with whatever music is playing, built on system audio capture. | Swift |
-| 03 | **Sealed projects** | A web app, a website, an MCP server, and a graphics experiment. Details open on the [portfolio](https://windowopner.github.io) with a code. | Next.js, Supabase, Python, FastAPI |
+**StudyOS** &nbsp;·&nbsp; Next.js 16, Supabase, Claude API<br>
+A whole school week in one app: assignments, notes, flashcards, to-dos, and an AI tutor that builds flashcard decks for you. Study rooms check passwords and roles inside the database (bcrypt, row-level security, `SECURITY DEFINER` functions), so the browser is never trusted.
+
+**Undertone** &nbsp;·&nbsp; Swift, Metal, Core Audio<br>
+A macOS desktop wallpaper that listens. It taps system audio, splits it into bass, mids, highs, and beats with an FFT, and drives Metal shaders tinted by the album art of whatever is playing.
+
+**[Folio](https://project-km7wz.vercel.app)** &nbsp;·&nbsp; JavaScript, Supabase &nbsp;·&nbsp; *live*<br>
+A publishing platform for essays, letters, and poems: @handles, follows, likes, comments, bookmarks, and version history, behind Google sign-in and row-level security.
+
+**Workspace Connector** &nbsp;·&nbsp; Python, FastAPI, OAuth 2.1 &nbsp;·&nbsp; *archived*<br>
+A remote MCP server that let Claude work in my Google account: 12 tools across Classroom, Drive, Docs, and Slides. It is its own OAuth 2.1 server, with dynamic client registration, PKCE, and rotating refresh tokens.
+
+**WebGL Ripple** &nbsp;·&nbsp; Three.js, GLSL<br>
+Water you can touch. The 2D wave equation is solved on the GPU every frame, ping-ponging between 512×512 half-float textures, then turned into normals and lit in a shader.
+
+**[This portfolio](https://windowopner.github.io)** &nbsp;·&nbsp; Three.js, GLSL, Web Audio<br>
+All five, kept as an archive of iridescent discs on a mirror floor. Every disc is a record with its own loop synthesised in the browser; the carousel is the crossfader, and you can scratch the front disc. No build step.
 
 ### Toolkit
 
@@ -35,6 +47,7 @@
   <img alt="Three.js" src="https://img.shields.io/badge/Three.js-16181d?style=flat-square&logo=threedotjs&logoColor=white">
   <img alt="WebGL" src="https://img.shields.io/badge/WebGL-16181d?style=flat-square&logo=webgl&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-16181d?style=flat-square&logo=fastapi&logoColor=white">
+  <img alt="Metal" src="https://img.shields.io/badge/Metal-16181d?style=flat-square&logo=apple&logoColor=white">
 </p>
 
 ### Elsewhere
