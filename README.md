@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:16181d,60:2a2d36,100:e5342b&text=SABU&fontColor=f4f4f1&fontSize=84&fontAlignY=38&desc=windowopner&descSize=20&descAlignY=60&animation=fadeIn" alt="Sabu">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:16181d,55:6b7280,100:c0c4cc&text=SABU&fontColor=f4f4f1&fontSize=84&fontAlignY=38&desc=windowopner&descSize=20&descAlignY=60&animation=fadeIn" alt="Sabu">
 
 <a href="https://github.com/windowopner">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=E5342B&center=true&vCenter=true&width=620&lines=Web+apps+%C2%B7+macOS+tools+%C2%B7+interactive+3D;Small%2C+finished+things+with+care+in+the+details;Shaders%2C+FFT%2C+row-level+security;Currently+spinning+records+in+the+browser" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A9AEB8&center=true&vCenter=true&width=620&lines=Web+apps+%C2%B7+macOS+tools+%C2%B7+interactive+3D;Small%2C+finished+things+with+care+in+the+details;Shaders%2C+FFT%2C+row-level+security;Currently+spinning+records+in+the+browser" alt="Typing SVG">
 </a>
 
 <br><br>
 
-<a href="https://windowopner.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-windowopner.github.io-16181d?style=for-the-badge&labelColor=e5342b"></a>
+<a href="https://windowopner.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-windowopner.github.io-16181d?style=for-the-badge&labelColor=8b919c"></a>
 <a href="https://windowopner.github.io/#about"><img alt="About" src="https://img.shields.io/badge/ABOUT-me-16181d?style=for-the-badge&labelColor=16181d"></a>
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=windowopner&style=for-the-badge&color=16181d&label=VIEWS&labelColor=16181d">
 
@@ -87,38 +87,64 @@
 <div align="center">
 
 **Languages**<br>
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,swift,bash,html,css&perline=9" alt="Languages"><br>
-<img alt="ASM" src="https://img.shields.io/badge/ASM-16181d?style=for-the-badge&logo=gnu&logoColor=e5342b">
-<img alt="GLSL" src="https://img.shields.io/badge/GLSL-16181d?style=for-the-badge&logo=opengl&logoColor=e5342b">
-<img alt="Metal" src="https://img.shields.io/badge/Metal-16181d?style=for-the-badge&logo=apple&logoColor=e5342b">
-<img alt="Pine Script" src="https://img.shields.io/badge/Pine_Script-16181d?style=for-the-badge&logo=tradingview&logoColor=e5342b">
+<img alt="C" src="https://img.shields.io/badge/C-2a2d36?style=flat-square&logo=c&logoColor=c0c4cc">
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-2a2d36?style=flat-square&logo=cplusplus&logoColor=c0c4cc">
+<img alt="Python" src="https://img.shields.io/badge/Python-2a2d36?style=flat-square&logo=python&logoColor=c0c4cc">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2a2d36?style=flat-square&logo=javascript&logoColor=c0c4cc">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2a2d36?style=flat-square&logo=typescript&logoColor=c0c4cc">
+<img alt="Swift" src="https://img.shields.io/badge/Swift-2a2d36?style=flat-square&logo=swift&logoColor=c0c4cc">
+<img alt="Bash" src="https://img.shields.io/badge/Bash-2a2d36?style=flat-square&logo=gnubash&logoColor=c0c4cc">
+<img alt="HTML" src="https://img.shields.io/badge/HTML-2a2d36?style=flat-square&logo=html5&logoColor=c0c4cc">
+<img alt="CSS" src="https://img.shields.io/badge/CSS-2a2d36?style=flat-square">
+<img alt="ASM" src="https://img.shields.io/badge/ASM-2a2d36?style=flat-square&logo=gnu&logoColor=c0c4cc">
+<img alt="GLSL" src="https://img.shields.io/badge/GLSL-2a2d36?style=flat-square&logo=opengl&logoColor=c0c4cc">
+<img alt="Metal" src="https://img.shields.io/badge/Metal-2a2d36?style=flat-square&logo=apple&logoColor=c0c4cc">
+<img alt="Pine Script" src="https://img.shields.io/badge/Pine_Script-2a2d36?style=flat-square&logo=tradingview&logoColor=c0c4cc">
 
 <br>
 
 **Web &amp; Backend**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,npm,react,nextjs,tailwind,threejs,webgl,vercel&perline=8" alt="Web"><br>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,supabase,postgres,sqlite&perline=5" alt="Backend"><br>
-<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-16181d?style=for-the-badge&logo=streamlit&logoColor=e5342b">
-<img alt="Solana" src="https://img.shields.io/badge/Solana-16181d?style=for-the-badge&logo=solana&logoColor=e5342b">
-<img alt="MCP" src="https://img.shields.io/badge/MCP-16181d?style=for-the-badge&logo=modelcontextprotocol&logoColor=e5342b">
-<img alt="OAuth 2.1" src="https://img.shields.io/badge/OAuth_2.1-16181d?style=for-the-badge&logoColor=e5342b">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-2a2d36?style=flat-square&logo=nodedotjs&logoColor=c0c4cc">
+<img alt="npm" src="https://img.shields.io/badge/npm-2a2d36?style=flat-square&logo=npm&logoColor=c0c4cc">
+<img alt="React" src="https://img.shields.io/badge/React-2a2d36?style=flat-square&logo=react&logoColor=c0c4cc">
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-2a2d36?style=flat-square&logo=nextdotjs&logoColor=c0c4cc">
+<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-2a2d36?style=flat-square&logo=tailwindcss&logoColor=c0c4cc">
+<img alt="Three.js" src="https://img.shields.io/badge/Three.js-2a2d36?style=flat-square&logo=threedotjs&logoColor=c0c4cc">
+<img alt="WebGL" src="https://img.shields.io/badge/WebGL-2a2d36?style=flat-square&logo=webgl&logoColor=c0c4cc">
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-2a2d36?style=flat-square&logo=vercel&logoColor=c0c4cc">
+<img alt="Flask" src="https://img.shields.io/badge/Flask-2a2d36?style=flat-square&logo=flask&logoColor=c0c4cc">
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-2a2d36?style=flat-square&logo=fastapi&logoColor=c0c4cc">
+<img alt="Supabase" src="https://img.shields.io/badge/Supabase-2a2d36?style=flat-square&logo=supabase&logoColor=c0c4cc">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-2a2d36?style=flat-square&logo=postgresql&logoColor=c0c4cc">
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite-2a2d36?style=flat-square&logo=sqlite&logoColor=c0c4cc">
+<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-2a2d36?style=flat-square&logo=streamlit&logoColor=c0c4cc">
+<img alt="Solana" src="https://img.shields.io/badge/Solana-2a2d36?style=flat-square&logo=solana&logoColor=c0c4cc">
+<img alt="MCP" src="https://img.shields.io/badge/MCP-2a2d36?style=flat-square&logo=modelcontextprotocol&logoColor=c0c4cc">
+<img alt="OAuth 2.1" src="https://img.shields.io/badge/OAuth_2.1-2a2d36?style=flat-square">
 
 <br>
 
 **Linux &amp; Security**<br>
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,arch,bash&perline=5" alt="Linux and security">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-2a2d36?style=flat-square&logo=linux&logoColor=c0c4cc">
+<img alt="Kali" src="https://img.shields.io/badge/Kali-2a2d36?style=flat-square&logo=kalilinux&logoColor=c0c4cc">
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-2a2d36?style=flat-square&logo=ubuntu&logoColor=c0c4cc">
+<img alt="Arch" src="https://img.shields.io/badge/Arch-2a2d36?style=flat-square&logo=archlinux&logoColor=c0c4cc">
+<img alt="Bash" src="https://img.shields.io/badge/Bash-2a2d36?style=flat-square&logo=gnubash&logoColor=c0c4cc">
 
 <br>
 
 **Hardware &amp; Embedded**<br>
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino&perline=2" alt="Hardware"><br>
-<img alt="ESP32" src="https://img.shields.io/badge/ESP32-16181d?style=for-the-badge&logo=espressif&logoColor=e5342b">
-<img alt="Microcontrollers" src="https://img.shields.io/badge/Microcontrollers-16181d?style=for-the-badge&logo=cplusplus&logoColor=e5342b">
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-2a2d36?style=flat-square&logo=raspberrypi&logoColor=c0c4cc">
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-2a2d36?style=flat-square&logo=arduino&logoColor=c0c4cc">
+<img alt="ESP32" src="https://img.shields.io/badge/ESP32-2a2d36?style=flat-square&logo=espressif&logoColor=c0c4cc">
+<img alt="Microcontrollers" src="https://img.shields.io/badge/Microcontrollers-2a2d36?style=flat-square&logo=cplusplus&logoColor=c0c4cc">
 
 <br>
 
 **Tools**<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Tools">
+<img alt="Git" src="https://img.shields.io/badge/Git-2a2d36?style=flat-square&logo=git&logoColor=c0c4cc">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-2a2d36?style=flat-square&logo=github&logoColor=c0c4cc">
+<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-2a2d36?style=flat-square">
 
 </div>
 
@@ -126,8 +152,8 @@
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=windowopner&show_icons=true&hide_border=true&bg_color=16181d&title_color=e5342b&icon_color=e5342b&text_color=f4f4f1&ring_color=e5342b&rank_icon=github">
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windowopner&layout=compact&hide_border=true&bg_color=16181d&title_color=e5342b&text_color=f4f4f1&langs_count=6">
+<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=windowopner&show_icons=true&hide_border=true&bg_color=16181d&title_color=c0c4cc&icon_color=c0c4cc&text_color=f4f4f1&ring_color=c0c4cc&rank_icon=github">
+<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windowopner&layout=compact&hide_border=true&bg_color=16181d&title_color=c0c4cc&text_color=f4f4f1&langs_count=6">
 
 </div>
 
@@ -135,6 +161,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:e5342b,40:2a2d36,100:16181d&section=footer" alt="">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:c0c4cc,45:6b7280,100:16181d&section=footer" alt="">
 
 </div>
