@@ -66,7 +66,8 @@
 
 <div align="center">
 
-**Languages**<br>
+**Languages**
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/icons/languages.svg">
   <img alt="Languages" src="assets/icons/languages-light.svg">
@@ -74,11 +75,13 @@
 
 <br>
 
-**Web &amp; Backend**<br>
+**Web &amp; Backend**
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/icons/web.svg">
   <img alt="Web" src="assets/icons/web-light.svg">
-</picture><br><br>
+</picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/icons/backend.svg">
   <img alt="Backend" src="assets/icons/backend-light.svg">
@@ -86,7 +89,8 @@
 
 <br>
 
-**Linux &amp; Security**<br>
+**Linux &amp; Security**
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/icons/linux.svg">
   <img alt="Linux and security" src="assets/icons/linux-light.svg">
@@ -94,7 +98,8 @@
 
 <br>
 
-**Hardware &amp; Embedded**<br>
+**Hardware &amp; Embedded**
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/icons/hardware.svg">
   <img alt="Hardware" src="assets/icons/hardware-light.svg">
@@ -102,7 +107,8 @@
 
 <br>
 
-**Tools**<br>
+**Tools**
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/icons/tools.svg">
   <img alt="Tools" src="assets/icons/tools-light.svg">
