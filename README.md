@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>StudyOS</h3>
+      <h3><a href="https://github.com/windowopner/studyos">StudyOS</a> <sup>source</sup></h3>
       <sub><code>Next.js 16</code> · <code>Supabase</code> · <code>Claude API</code></sub><br><br>
       A whole school week in one app: assignments, notes, flashcards, to-dos, and an AI tutor that builds decks for you. Study rooms check passwords and roles inside the database (bcrypt, RLS, <code>SECURITY DEFINER</code>), so the browser is never trusted.
     </td>
@@ -45,7 +45,7 @@
       Water you can touch. The 2D wave equation is solved on the GPU every frame, ping-ponging between 512×512 half-float textures, then turned into normals and lit in a shader.
     </td>
     <td width="50%" valign="top">
-      <h3>Workspace Connector <sup>archived</sup></h3>
+      <h3><a href="https://github.com/windowopner/MCP-test">Workspace Connector</a> <sup>archived</sup></h3>
       <sub><code>Python</code> · <code>FastAPI</code> · <code>OAuth 2.1</code></sub><br><br>
       A remote MCP server that let Claude work in my Google account: 12 tools across Classroom, Drive, Docs, and Slides. Its own OAuth 2.1 server with dynamic client registration, PKCE, and rotating refresh tokens.
     </td>
@@ -113,6 +113,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/icons/tools.svg">
   <img alt="Tools" src="assets/icons/tools-light.svg">
 </picture>
+
+<sub>My dev setup lives in <a href="https://github.com/windowopner/dotfiles">dotfiles</a>: Ghostty, Catppuccin Mocha, SSH-signed commits.</sub>
 
 </div>
 
