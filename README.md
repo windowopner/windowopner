@@ -21,9 +21,9 @@
       A whole school week in one app: assignments, notes, flashcards, to-dos, and an AI tutor that builds decks for you. Study rooms check passwords and roles inside the database (bcrypt, RLS, <code>SECURITY DEFINER</code>), so the browser is never trusted.
     </td>
     <td width="50%" valign="top">
-      <h3>Undertone</h3>
-      <sub><code>Swift</code> · <code>Metal</code> · <code>Core Audio</code></sub><br><br>
-      A macOS desktop wallpaper that listens. It taps system audio, splits it into bass, mids, highs, and beats with an FFT, and drives Metal shaders tinted by the album art of whatever is playing.
+      <h3><a href="https://github.com/windowopner/undertone">Undertone</a> <sup>source</sup></h3>
+      <sub><code>Swift</code> · <code>ScreenCaptureKit</code> · <code>SceneKit</code></sub><br><br>
+      A macOS desktop wallpaper that listens. It captures system audio with ScreenCaptureKit, splits it into 16 bands with a bank of band-pass filters, tracks the beat, and drives nine visual styles in SwiftUI and SceneKit, tinted by the album art of whatever is playing.
     </td>
   </tr>
   <tr>
@@ -33,7 +33,7 @@
       A publishing platform for essays, letters, and poems: @handles, follows, likes, comments, bookmarks, and version history, behind Google sign-in and row-level security.
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/windowopner/pumpfun-sim">pumpfun-sim</a> <sup>source</sup></h3>
+      <h3><a href="https://github.com/windowopner/pumpfun-trial-1">pumpfun-trial-1</a> <sup>source</sup></h3>
       <sub><code>Python</code> · <code>Solana</code> · <code>SQLite</code> · <code>Streamlit</code></sub><br><br>
       Do memecoin sniping bots make money? Records every Pump.fun launch and trade, reproduces 2.3 million real trades to the lamport, and backtests against a random baseline. Buying at launch loses, even before fees.
     </td>
